@@ -1,0 +1,14 @@
+body {
+  background-color: #bababa;
+}
+
+h1 {
+  background-color: #ce468e;
+  color: hsl(0, 0%, 0%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #bababa;
+}
